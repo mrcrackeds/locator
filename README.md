@@ -1,6 +1,6 @@
 # Locator v1.0
-## Author: github.com/thelinuxchoice/locator
-## IG: instagram.com/thelinuxchoice
+## Author: github.com/icammaci/locator
+## IG: instagram.com/cracked_212
 ### Don't copy this code without give me the credits, nerd! 
 
 Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
@@ -15,7 +15,7 @@ Usage of Locator for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/locator
+git clone https://github.com/icammaci/locator
 cd locator
 bash locator.sh
 ```
