@@ -1,4 +1,5 @@
 # Locator v1.0
+## copyright (c) @thelinuxchoice
 ## Author: github.com/icammaci/locator
 ## IG: instagram.com/cracked_212
 ### Don't copy this code without give me the credits, nerd! 
