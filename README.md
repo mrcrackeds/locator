@@ -1,13 +1,12 @@
 # Locator v1.0
-## copyright (c) @thelinuxchoice
-## Author: github.com/thelinuxchoice/locator
+## Author: github.com/icammaci/locator
 ## IG: instagram.com/cracked_212
 ### Don't copy this code without give me the credits, nerd! 
 
 Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
 It uses tinyurl to obfuscate the Serveo link.
 
-![loc](https://user-images.githubusercontent.com/34893261/43586620-7a766f4a-963e-11e8-8a47-5ff4039fbda0.png)
+![loc](https://github.com/icammaci/locator/blob/main/Screenshot_20210121-065728_Termux.jpg)
 
 ## Legal disclaimer:
 
